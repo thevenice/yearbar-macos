@@ -1,0 +1,9 @@
+//
+//  Info.plist
+//  yearbar
+//
+//  Created by Prakash Pawar on 23/10/24.
+//
+
+<key>Application is agent (UIElement)</key>
+<string>YES</string>
